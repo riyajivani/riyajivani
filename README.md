@@ -1,4 +1,4 @@
-
+![logo](https://github.com/riyajivani/riyajivani/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Riya Jivani</h1>
 <h3 align="center">🌍 Building a better future through engineering! 🌟</h3>
 
