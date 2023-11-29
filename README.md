@@ -21,10 +21,10 @@
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
- <a href="https://riyajivani.github.io/portfolio/"><img src="https://img.shields.io/badge/_P_O_R_T_F_O_L_I_O-black?style=plastic&logo=ghostery&logoColor=%23FAFA33"/></a>&nbsp
-<a href="https://github.com/riyajivani"><img src="https://img.shields.io/badge/_G_I_T_H_U_B-black?style=plastic&logo=github&logoColor=%23FAFA33"/></a>&nbsp
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riya-jivani-729116228/"><img src="https://img.shields.io/badge/_L_I_N_K_E_D_I_N-black?style=plastic&logo=linkedin&logoColor=%23FAFA33"/></a>&nbsp
-<a href="https://wa.me/6351414235"><img src="https://img.shields.io/badge/_W_H_A_T_S_A_P_P-black?style=plastic&logo=whatsapp&logoColor=%23FAFA33"/></a>&nbsp
+ <a href="https://riyajivani.github.io/portfolio/"><img src="https://img.shields.io/badge/_P_O_R_T_F_O_L_I_O-black?style=plastic&logo=ghostery&logoColor=%23FAFA33" height="20px"/></a>&nbsp
+<a href="https://github.com/riyajivani"><img src="https://img.shields.io/badge/_G_I_T_H_U_B-black?style=plastic&logo=github&logoColor=%23FAFA33" height="20px"/></a>&nbsp
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/riya-jivani-729116228/"><img src="https://img.shields.io/badge/_L_I_N_K_E_D_I_N-black?style=plastic&logo=linkedin&logoColor=%23FAFA33" height="20px"/></a>&nbsp
+<a href="https://wa.me/6351414235"><img src="https://img.shields.io/badge/_W_H_A_T_S_A_P_P-black?style=plastic&logo=whatsapp&logoColor=%23FAFA33" height="20px"/></a>&nbsp
 </p>
 
 
