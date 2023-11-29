@@ -41,6 +41,8 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajivani&theme=highcontrast">
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Riya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riyajivani&title_color=fafa33&bg_color=0a0f0b&color=f6f8fa&line=fafa33&point=f6f8fa&hide_border=true" /></a>
+
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajivani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true%22" alt="riyajivani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyajivani&show_icons=true&theme=radical&title_color=ff0095&text_color=ffffff&locale=en" alt="riyajivani" /></p>
