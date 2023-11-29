@@ -1,41 +1,44 @@
 ![logo](https://github.com/riyajivani/riyajivani/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Riya Jivani</h1>
-<h3 align="center">🌍 Building a better future through engineering! 🌟</h3>
 
+<h1 align="center">Hey there🙋‍♀️, you are browsing Riya Jivani's profile.</h1>
+<h3 align="center">🌍 Building a better future through engineering!🌟</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajivani&label=Profile%20views&color=0e75b6&style=flat" alt="riyajivani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajivani&label=Profile%20views&color=ff0095&style=plastic" alt="riyajivani" /> </p>
 
 - 🌱 I’m currently learning **Java Spring Boot, ReactJS**
 
-- 💬 Ask me about **Android,Mathematics**
+- 👨‍💻 All of my projects are available at [my potfolio](https://riyajivani.github.io/portfolio/)
 
-- 📫 How to reach me **riyajivani8@gmail.com**
+- 💬 Ask me about **Java, Android, Mathematics**
+
+- 📧 Contact me via **riyajivani8@gmail.com**
+
+- 📄 Know about my experiences on [my resume](https://drive.google.com/file/d/1rDXPq-UQLWyEprt2cK-0gmt58BzWxCql/view?usp=sharing)
 
 - ⚡ Fun fact **“A girl asked her father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!”🫣😂**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/riya jivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya jivani" height="30" width="40" /></a>
-<a href="https://fb.com/riya jivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riya jivani" height="30" width="40" /></a>
-<a href="https://instagram.com/_ree.8_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ree.8_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jivaniriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jivaniriya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@it046_jivaniriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@it046_jivaniriya" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/riya-jivani-729116228/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+  <a href="https://github.com/riyajivani/riyajivani/"><img src="https://skillicons.dev/icons?i=github" /></a> 
+  <a href="https://instagram.com/https://www.instagram.com/_ree.8_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
+<h3 align="left">🚀 Languages and Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,c,cpp,html,css,postgresql,flutter,git,postman,docker,linux" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyajivani&show_icons=true&locale=en&layout=compact" alt="riyajivani" /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyajivani&theme=highcontrast"><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyajivani&show_icons=true&locale=en" alt="riyajivani" /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyajivani&theme=highcontrast"><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajivani&" alt="riyajivani" /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajivani&theme=highcontrast">
+
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajivani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true%22" alt="riyajivani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyajivani&show_icons=true&theme=radical&title_color=ff0095&text_color=ffffff&locale=en" alt="riyajivani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajivani&theme=dark" alt="riyajivani" /></p>-->
