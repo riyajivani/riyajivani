@@ -35,6 +35,7 @@
   </a>
 </p>
 
+<h3 align="left">📈Github Commit Stats</h3>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyajivani&theme=highcontrast">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajivani&theme=highcontrast"><br>
