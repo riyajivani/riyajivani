@@ -1,4 +1,4 @@
-![logo](https://github.com/riyajivani/riyajivani/blob/main/banner.png)
+![logo](https://github.com/riyajivani/riyajivani/blob/main/banner.jpeg?raw=true)
 
 <h1 align="center">Hey there🙋‍♀️, you are browsing Riya Jivani's profile.</h1>
 <h3 align="center">🌍 Building a better future through engineering!🌟</h3>
