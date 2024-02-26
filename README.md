@@ -31,7 +31,7 @@
 <h3 align="left">🚀Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,c,cpp,html,css,postgresql,flutter,git,postman,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,spring,java,c,cpp,html,css,javascript,postgresql,mongo,flutter,git,postman,docker,linux" />
   </a>
 </p>
 
