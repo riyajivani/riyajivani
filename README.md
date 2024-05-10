@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot, ReactJS**
 
-- 👨‍💻 All of my projects are available at [my potfolio](https://riyajivani.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my potfolio](https://riya-portfolio-emdk.onrender.com)
 
 - 💬 Ask me about **Java, Android, Mathematics**
 
