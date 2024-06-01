@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [my potfolio](https://riya-portfolio-emdk.onrender.com)
 
-- 💬 Ask me about **Java, Android, Mathematics**
+- 💬 Ask me about **Java, Android, ReactJS, Mathematics**
 
 - 📧 Contact me via **riyajivani8@gmail.com**
 
