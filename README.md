@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajivani&label=Profile%20views&color=ff0095&style=plastic" alt="riyajivani" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **C# and ASP.Net**
 
 - 👨‍💻 All of my projects are available at [my potfolio](https://riya-portfolio-emdk.onrender.com)
 
