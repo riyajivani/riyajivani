@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C# and ASP.Net**
 
-- 👨‍💻 All of my projects are available at [my potfolio](https://riya-portfolio-emdk.onrender.com/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://riya-portfolio-emdk.onrender.com/)
 
 - 💬 Ask me about **Java, Android, ReactJS, Mathematics**
 
