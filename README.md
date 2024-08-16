@@ -14,7 +14,7 @@
 
 - 📧 Contact me via **riyajivani8@gmail.com**
 
-- 📄 Know about my experiences on [my resume](https://drive.google.com/file/d/12sG6fhloUHVJPvks5vc-2c3uAxqVahMH/view?usp=drive_link)
+- 📄 Know about my experiences on [my resume](https://drive.google.com/file/d/12s6aOC8LS7WeIU1c8TS5x14uT1z7Kc64/view?usp=sharing)
 
 - ⚡ Fun fact **“A girl asked her father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!”🫣😂**
 
