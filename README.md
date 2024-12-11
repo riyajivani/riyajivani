@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajivani&label=Profile%20views&color=ff0095&style=plastic" alt="riyajivani" /> </p>
 
-- 🌱 I’m currently learning **C# and ASP.Net**
-
 - 👨‍💻 All of my projects are available at [my portfolio](https://riya-portfolio-emdk.onrender.com/)
 
 - 💬 Ask me about **Java, Android, ReactJS, Mathematics**
