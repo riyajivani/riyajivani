@@ -33,10 +33,10 @@
 
 <h3 align="left">📈Github Commit Stats</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyajivani&theme=highcontrast">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajivani&theme=highcontrast"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyajivani&theme=discord_old_blurple">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajivani&theme=discord_old_blurple"><br>
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyajivani&theme=highcontrast"><br><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Riya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riyajivani&title_color=fafa33&bg_color=0a0f0b&color=f6f8fa&line=fafa33&point=f6f8fa&hide_border=true" /></a></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyajivani&theme=discord_old_blurple"><br><br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Riya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riyajivani&title_color=7289da&bg_color=0a0f0b&color=f6f8fa&line=7289da&point=f6f8fa&hide_border=true" /></a></p>
