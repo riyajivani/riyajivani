@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://riya-portfolio-emdk.onrender.com/)
 
-- 💬 Ask me about **Java, Android, ReactJS, Mathematics**
-
 - 📧 Contact me via **riyajivani8@gmail.com**
 
 - 📄 Know about my experiences on [my resume](https://drive.google.com/file/d/1gmHBVJBsayrisMxJr6a94QVCg5uyEdwh/view?usp=sharing)
